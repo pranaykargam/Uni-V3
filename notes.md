@@ -1,5 +1,6 @@
 
-<img src="./img/image1.jpeg">
+
+<img src="./img/image1.jpeg" width="800">
 
 ### Uniswap V3 Learning Schedule
 
