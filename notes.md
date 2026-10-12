@@ -1,4 +1,6 @@
 
+<img src="./img/image1.jpeg" alt="Spot banner" width="700">
+
 ### Uniswap V3 Learning Schedule
 
 | Day | Focus | Practice |
