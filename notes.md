@@ -1,5 +1,5 @@
 
-<img src="./img/image1.jpeg" alt="Spot banner" width="900">
+<img src="./img/image1.jpeg">
 
 ### Uniswap V3 Learning Schedule
 
