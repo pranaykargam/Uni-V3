@@ -1,6 +1,14 @@
 [profile.default]
 src = "src"
+test = "test"
 out = "out"
 libs = ["lib"]
 
-# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+auto_detect_solc = true
+offline = false
+
+remappings = [
+    "forge-std/=lib/forge-std/src/",
+    "@uniswap/v3-core/=lib/v3-core/"
+]
+
