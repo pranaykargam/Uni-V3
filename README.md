@@ -2,6 +2,8 @@
 
 <img src="./img/LK .png">
 
+https://j1mmy.fi/uniswapv3/pool
+
 ### Uniswap V3 Learning Schedule
 
 | Day | Focus | Practice |
