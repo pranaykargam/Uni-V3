@@ -2,6 +2,58 @@
 
 ## https://j1mmy.fi/uniswapv3/pool
 
+UNISWAP V2
+│
+├── CORE
+│   ├── Factory
+│   └── Pair
+│       ├── reserves
+│       ├── swap()
+│       ├── mint()
+│       ├── burn()
+│       └── LP Tokens
+│
+└── PERIPHERY
+    ├── Router
+    └── Helpers
+
+
+UNISWAP V3
+│
+├── CORE
+│   │
+│   ├── Factory
+│   │
+│   └── Pool ⭐⭐⭐⭐⭐
+│       ├── swaps
+│       ├── liquidity
+│       ├── ticks
+│       ├── positions
+│       ├── fees
+│       └── oracle
+│
+├── PERIPHERY
+│   │
+│   ├── NonfungiblePositionManager ⭐⭐⭐⭐⭐
+│   │   └── LP Positions as NFTs
+│   │
+│   ├── SwapRouter ⭐⭐⭐⭐
+│   │   └── User Swaps
+│   │
+│   ├── Quoter ⭐⭐⭐
+│   │   └── Swap Estimation
+│   │
+│   └── Helpers
+│
+└── LIBRARIES
+    │
+    ├── TickMath ⭐⭐⭐⭐⭐
+    ├── SqrtPriceMath ⭐⭐⭐⭐⭐
+    ├── SwapMath ⭐⭐⭐⭐⭐
+    ├── LiquidityMath ⭐⭐⭐⭐
+    ├── FullMath ⭐⭐⭐⭐
+    └── Oracle ⭐⭐⭐⭐
+
 ### Uniswap V3 Learning Schedule
 
 | Day | Focus | Practice |
